@@ -12,7 +12,7 @@ Il progetto ha l’obiettivo di analizzare il dataset 'Suicide Rates Overview 19
 - Gestione di duplicati
 
 ## Individuazione e Gestione degli Outlier
-- Rimozione degli outlier estremi
+- Gestione degli outlier estremi
 
 ## Analisi di Correlazione
 - Matrice di correlazione tra le variabili numeriche
