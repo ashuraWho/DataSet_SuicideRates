@@ -33,3 +33,12 @@ Il progetto ha l’obiettivo di analizzare il dataset 'Suicide Rates Overview 19
 - Utilizzo di Catboost con Optuna per predirre la variabile suicides_rate
 - Analisi features importance
   
+## Modello di previsione applicando XGBoost
+- Utilizzo di XGBoost con Optuna per predirre la variabile 'suicides/100k pop'
+- Studio di:
+ - optimization history plot
+ - hyperparameter importances
+ - RMS, MEA, R2
+ - top 15 features importance
+ - grafico delle predizioni vs valori reali
+ - analisi dei residui
