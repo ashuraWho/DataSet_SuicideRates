@@ -36,9 +36,9 @@ Il progetto ha l’obiettivo di analizzare il dataset 'Suicide Rates Overview 19
 ## Modello di previsione applicando XGBoost
 - Utilizzo di XGBoost con Optuna per predirre la variabile 'suicides/100k pop'
 - Studio di:
- - optimization history plot
- - hyperparameter importances
- - RMS, MEA, R2
- - top 15 features importance
- - grafico delle predizioni vs valori reali
- - analisi dei residui
+ - optimization history plot -> se l’ottimizzazione sta migliorando il modello nel tempo
+ - hyperparameter importances -> quali iperparametri meritano più attenzione nelle ottimizzazioni future
+ - RMS, MEA, R2 -> giudicare la qualità complessiva del modello
+ - top 15 features importance -> quali variabili influenzano maggiormente le predizioni
+ - grafico delle predizioni vs valori reali -> punti distribuiti attorno alla diagonale = modello accurato
+ - analisi dei residui -> deviazione dalla normalità
