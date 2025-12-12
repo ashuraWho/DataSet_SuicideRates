@@ -22,3 +22,14 @@ Il progetto ha l’obiettivo di analizzare il dataset 'Suicide Rates Overview 19
 - Creazione di nuove feature utili
 
 ## Visualizzazioni e Grafici
+- Tasso di suicidi per genere/eta
+- Tasso di suicidi per reddito
+- Andamento suicidi nel tempo
+- Media di suicidi per anno e continente
+- Media di suicidi per 100k abitanti per continente
+- Tasso medio di suicidi per fasce di popolazione
+
+## Modello di previsione applicando Catboost
+- Utilizzo di Catboost con Optuna per predirre la variabile suicides_rate
+- Analisi features importance
+  
